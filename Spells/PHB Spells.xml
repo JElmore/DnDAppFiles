@@ -842,7 +842,12 @@
 		<duration>Instantaneous</duration>
 		<classes>Druid, Druid (Arctic), Druid (Forest), Paladin (Ancients), Ranger</classes>
 		<text>You briefly become one with nature and gain knowledge of the surrounding territory. In the outdoors, the spell gives you knowledge of the land within 3 miles of you. In caves and other natural underground settings, the radius is limited to 300 feet. The spell doesn't function where nature has been replaced by construction, such as in dungeons and towns.</text>
-		<text>    You instantly gain knowledge of up to three facts of your choice about any of the following subjects as they relate to the area - terrain and bodies of water; prevalent plants, minerals, animals, or peoples; powerful celestials, fey, fiends, elementals, or undead; influence from other planes of existence; buildings.</text>
+		<text>    You instantly gain knowledge of up to three facts of your choice about any of the following subjects as they relate to the area:</text>
+		<text>• terrain and bodies of water</text>
+		<text>• prevalent plants, minerais, animals, or peoples</text>
+		<text>• powerful celestiaIs, fey, fiends, elementals, or undead</text>
+		<text>• influence from other planes of existence</text>
+		<text>• buildings</text>
 		<text>    For example, you could determine the location of powerful undead in the area, the location of major sources of safe drinking water, and the location of any nearby towns.</text>
 	</spell>
 	<spell>
