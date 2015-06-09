@@ -1256,14 +1256,13 @@
 		<components>V, S, M (a tiny piece of matter of the same type of the item you plan to create)</components>
 		<duration>Special</duration>
 		<classes>Sorcerer, Wizard, Rogue (Arcane Trickster)</classes>
-		<text>You pull wisps of shadow material from the Shadowfell to create a nonliving object of vegetable matter within range - soft goods, rope, wood, or something similar. You can also use this spell to create mineral objects such as stone, crystal, or metal. The object created must be no larger than a 5-foot cube, and the object must be of a form and material that you have seen before.</text>
+		<text>You pull wisps of shadow material from the Shadowfell to create a nonliving object of vegetable matter within range: soft goods, rope, wood, or something similar. You can also use this spell to create mineral objects such as stone, crystal, or metal. The object created must be no larger than a 5-foot cube, and the object must be of a form and material that you have seen before.</text>
 		<text>    The duration depends on the object's material. If the object is composed of multiple materials, use the shortest duration.</text>
-		<text>    Material - Duration: </text>
-		<text>Vegetable matter - 1 day</text>
-		<text>Stone/crystal - 12 hours</text>
-		<text>Precious metals - 1 hour</text>
-		<text>Gems - 10 minutes</text>
-		<text>Adamantine/Mithral - 1 minute</text>
+		<text>Vegetable matter: 1 day</text>
+		<text>Stone or crystal: 12 hours</text>
+		<text>Precious metals: 1 hour</text>
+		<text>Gems: 10 minutes</text>
+		<text>Adamantine or mithral: 1 minute</text>
 		<text>    Using any material created by this spell as another spell's material component causes that spell to fail.</text>
 		<text>    At Higher Levels: When you cast this spell using a spell slot of 6th level or higher, the cube increases by 5 feet for each slot level above 5th.</text>
 	</spell>
