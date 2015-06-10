@@ -1526,7 +1526,11 @@
 			</feature>
 			<feature optional="YES">
 				<name>Maneuver: Evasive Footwork</name>
-				<text>When you move, you can expend one superiority die, rolling the die and adding the number rolled to your AC until you stop moving. Feinting Attack. You can expend one superiority die and use a bonus action on your turn to feint, choosing one creature within 5 feet of you as your target. You have advantage on your next attack roll against that creature. If that attack hits, add the superiority die to the attack's damage roll.</text>
+				<text>When you move, you can expend one superiority die, rolling the die and adding the number rolled to your AC until you stop moving.</text>
+			</feature>
+			<feature optional="YES">
+				<name>Maneuver: Feinting Attack</name>
+				<text>You can expend one superiority die and use a bonus action on your turn to feint, choosing one creature within 5 feet of you as your target. You have advantage on your next attack roll against that creature. If that attack hits, add the superiority die to the attack's damage roll.</text>
 			</feature>
 			<feature optional="YES">
 				<name>Maneuver: Goading Attack</name>
