@@ -1761,7 +1761,7 @@
 		<components>V, S, M (fur or a feather from a beast)</components>
 		<duration>Concentration, up to 1 hour</duration>
 		<classes>Bard, Cleric, Druid, Sorcerer</classes>
-		<text>You touch a creature and bestow upon it a magical enhancement. Choose one of the following effects - the target gains the effect until the spell ends.</text>
+		<text>You touch a creature and bestow upon it a magical enhancement. Choose one of the following effects; the target gains that effect until the spell ends.</text>
 		<text>    Bear's Endurance: The target has advantage on Constitution checks. It also gains 2d6 temporary hit points, which are lost when the spell ends.</text>
 		<text>    Bull's Strength: The target has advantage on Strength checks, and his or her carrying capacity doubles.</text>
 		<text>    Cat's Grace: The target has advantage on Dexterity checks. It also doesn't take damage from falling 20 feet or less if it isn't incapacitated.</text>
