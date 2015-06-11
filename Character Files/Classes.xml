@@ -2027,7 +2027,7 @@
 			<feature>
 				<name>Deflect Missiles</name>
 				<text>Starting at 3rd level, you can use your reaction to deflect or catch the missile when you are hit by a ranged weapon attack. When you do so, the damage you take from the attack is reduced by 1d 10 + your Dexterity modifier + your monk level.</text>
-				<text>    If you reduce the damage to 0, you can catch the missile if it is small enough for you to hold in one hand and you have at least one hand free. If you catch a missile in this way, you can spend 1 ki point to make a ranged attack with the weapon or piece of ammunition you just caught, as part of the  same reaction. You make this attack with proficiency, regardless of your weapon proficiencies, and the missile counts as a monk weapon for the attack.</text>
+				<text>    If you reduce the damage to 0, you can catch the missile if it is small enough for you to hold in one hand and you have at least one hand free. If you catch a missile in this way, you can spend 1 ki point to make a ranged attack with the weapon or piece of ammunition you just caught, as part of the same reaction. You make this attack with proficiency, regardless of your weapon proficiencies, and the missile counts as a monk weapon for the attack.</text>
 			</feature>
 		</autolevel>
 
@@ -4941,7 +4941,7 @@
 			<feature optional="YES">
 				<name>The Fiend: Dark One's Own Luck</name>
 				<text>Starting at 6th level, you can call on your patron to alter fate in your favor. When you make an ability check or a saving throw, you can use this feature to add a d10 to your roll. You can do so after seeing the initial roll but before any of the roll's effects occur.</text>
-				<text>    Once you use this feature, you can't use it again until you finish a short or long rest</text>
+				<text>    Once you use this feature, you can't use it again until you finish a short or long rest.</text>
 			</feature>
 			<feature optional="YES">
 				<name>The Great Old One: Entropic Ward</name>
@@ -6358,7 +6358,7 @@
 			</feature>
 			<feature optional="YES">
 				<name>School of Evocation: Empowered Evocation</name>
-				<text>Beginning at 10th level, you can add your Intelligence modifier to the damage roll of any wizard evocation spell you cast</text>
+				<text>Beginning at 10th level, you can add your Intelligence modifier to the damage roll of any wizard evocation spell you cast.</text>
 			</feature>
 			<feature optional="YES">
 				<name>School of Illusion: Illusory Step</name>
@@ -6412,7 +6412,7 @@
 			<feature optional="YES">
 				<name>School of Evocation: Overchannel</name>
 				<text>Starting at 14th level, you can increase the power of your simpler spells. When you cast a wizard spell of 5th level or lower that deals damage, you can deal maximum damage with that spell.</text>
-				<text>    The first time you do so, you suffer no adverse effect. If you use this feature again before you finish a long rest, you take 2d12 necrotic damage for each level of the spell, immediately after you cast it. Each time you use this feature again before finishing a long rest, the necrotic damage per spell level increases by 1d 12. This damage ignores resistance and immunity.</text>
+				<text>    The first time you do so, you suffer no adverse effect. If you use this feature again before you finish a long rest, you take 2d12 necrotic damage for each level of the spell, immediately after you cast it. Each time you use this feature again before finishing a long rest, the necrotic damage per spell level increases by 1d12. This damage ignores resistance and immunity.</text>
 			</feature>
 			<feature optional="YES">
 				<name>School of Illusion: Illusory Reality</name>
