@@ -1923,7 +1923,7 @@
 		<components>V, S, M (a small amount of alcohol or distilled spirits)</components>
 		<duration>1 hour</duration>
 		<classes>Cleric (Death), Sorcerer, Wizard</classes>
-		<text>Bolstering yourself with a necromantic facsimile of life, you gain 1d4+4 temporary hit points for the duration.</text>
+		<text>Bolstering yourself with a necromantic facsimile of life, you gain 1d4 + 4 temporary hit points for the duration.</text>
 		<text>    At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, you gain 5 additional temporary hit points for each slot level above 1st.</text>
 		<roll>1d4+4</roll>
 	</spell>
