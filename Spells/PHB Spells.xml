@@ -1194,13 +1194,12 @@
 		<level>3</level>
 		<school>A</school>
 		<ritual />
-		<time>1 reaction</time>
+		<time>1 reaction, which you take when you see a creature within 60 feet of you casting a spell</time>
 		<range>60 feet</range>
 		<components>S</components>
 		<duration>Instantaneous</duration>
 		<classes>Sorcerer, Warlock, Wizard, Fighter (Eldritch Knight)</classes>
-		<text>This spell is cast using your reaction, which you take when you see a creature within 60 feet of you casting a spell.</text>
-		<text>    You attempt to interrupt a creature in the process of casting a spell. If the creature is casting a spell of 3rd level or lower, its spell fails and has no effect. If it is casting a spell of 4th level or higher, make an ability check using your spellcasting ability. The DC equals 10 + the spell's level. On a success, the creature's spell fails and has no effect.</text>
+		<text>You attempt to interrupt a creature in the process of casting a spell. If the creature is casting a spell of 3rd level or lower, its spell fails and has no effect. If it is casting a spell of 4th level or higher, make an ability check using your spellcasting ability. The DC equals 10 + the spell's level. On a success, the creature's spell fails and has no effect.</text>
 		<text>    At Higher Levels: When you cast this spell using a spell slot of 4th level or higher, the interrupted spell has no effect if its level is less than or equal to the level of the spell slot you used.</text>
 	</spell>
 	<spell>
@@ -1944,13 +1943,12 @@
 		<level>1</level>
 		<school>T</school>
 		<ritual />
-		<time>1 reaction</time>
+		<time>1 reaction, which you take when you or a creature within 60 feet of you falls</time>
 		<range>60 feet</range>
 		<components>V, M (a white feather or the heart of a hen)</components>
 		<duration>1 minute</duration>
 		<classes>Bard, Sorcerer, Wizard</classes>
-		<text>This spell is cast using your reaction, which you take when you or a creature within 60 feet of you falls.</text>
-		<text>    Choose up to five falling creatures within range. A falling creature's rate of descent slows to 60 feet per round until the spell ends. If the creature lands before the spell ends, it takes no falling damage and can land on its feet, and the spell ends for that creature.</text>
+		<text>Choose up to five falling creatures within range. A falling creature's rate of descent slows to 60 feet per round until the spell ends. If the creature lands before the spell ends, it takes no falling damage and can land on its feet, and the spell ends for that creature.</text>
 	</spell>
 	<spell>
 		<name>Feeblemind</name>
