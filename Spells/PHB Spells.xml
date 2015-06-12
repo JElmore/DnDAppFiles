@@ -1889,7 +1889,7 @@
 	<spell>
 		<name>Fabricate</name>
 		<level>4</level>
-		<school>EV</school>
+		<school>T</school>
 		<ritual />
 		<time>10 minutes</time>
 		<range>120 feet</range>
