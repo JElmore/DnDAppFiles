@@ -2454,7 +2454,7 @@
 		<components>V, S, M (diamond dust worth 100 gp, which the spell consumes)</components>
 		<duration>Instantaneous</duration>
 		<classes>Bard, Cleric, Druid</classes>
-		<text>You imbue a creature you touch with positive energy to undo a debilitating effect. You can reduce the target's exhaustion level by one, or end one of the following effects on the target.</text>
+		<text>You imbue a creature you touch with positive energy to undo a debilitating effect. You can reduce the target's exhaustion level by one, or end one of the following effects on the target:</text>
 		<text>• One effect that charmed or petrified the target</text>
 		<text>• One curse, including the target's attunement to a cursed magic item</text>
 		<text>• Any reduction to one of the target's ability scores</text>
