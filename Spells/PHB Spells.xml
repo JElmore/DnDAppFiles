@@ -3533,7 +3533,7 @@
 		<duration>24 hours</duration>
 		<classes>Wizard, Fighter (Eldritch Knight)</classes>
 		<text>You make an area within range magically secure. The area is a cube that can be as small as 5 feet to as large as 100 feet on each side. The spell lasts for the duration or until you use an action to dismiss it.</text>
-		<text>    When you cast the spell, you decide what sort of security the spell provides, choosing any or all of the following properties.</text>
+		<text>    When you cast the spell, you decide what sort of security the spell provides, choosing any or all of the following properties:</text>
 		<text>• Sound can't pass through the barrier at the edge of the warded area.</text>
 		<text>• The barrier of the warded area appears dark and foggy, preventing vision (including darkvision) through it.</text>
 		<text>• Sensors created by divination spells can't appear inside the protected area or pass through the barrier at its perimeter.</text>
