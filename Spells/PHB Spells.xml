@@ -3984,7 +3984,7 @@
 		<components>V, S</components>
 		<duration>Concentration, up to 1 hour</duration>
 		<classes>Cleric, Druid, Druid (Desert), Paladin (Ancients), Paladin (Vengeance), Ranger, Sorcerer, Wizard, Fighter (Eldritch Knight)</classes>
-		<text>For the duration, the willing creature you touch has resistance to one damage type of your choice - acid, cold, fire, lightning, or thunder.</text>
+		<text>For the duration, the willing creature you touch has resistance to one damage type of your choice: acid, cold, fire, lightning, or thunder.</text>
 	</spell>
 	<spell>
 		<name>Protection from Evil and Good</name>
