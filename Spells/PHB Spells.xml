@@ -3830,7 +3830,7 @@
 		<components>V</components>
 		<duration>Instantaneous</duration>
 		<classes>Bard, Sorcerer, Warlock, Wizard, Rogue (Arcane Trickster)</classes>
-		<text>You utter a word of power that can compel one creature you can see within range to die instantly. If the creature you chose has 100 hit points or fewer, it dies. Otherwise, the spell has no effect.</text>
+		<text>You utter a word of power that can compel one creature you can see within range to die instantly. If the creature you choose has 100 hit points or fewer, it dies. Otherwise, the spell has no effect.</text>
 	</spell>
 	<spell>
 		<name>Power Word Stun</name>
